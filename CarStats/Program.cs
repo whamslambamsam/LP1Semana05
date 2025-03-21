@@ -6,7 +6,10 @@ namespace CarStats
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP1!");
+            BarChart bc = new BarChart();
+
+            Randomizer.Seed = new Random(int.Parse(args[0])); // Definir seed.
+            Faker faker = new Faker(); // Usar o objeto faker para gerar dados. 
         }
     }
 }
