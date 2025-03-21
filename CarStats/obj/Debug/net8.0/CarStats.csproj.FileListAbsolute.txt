@@ -1,0 +1,5 @@
+C:\Users\caras\desktop\LP1\LP1Semana05\CarStats\obj\Debug\net8.0\CarStats.csproj.AssemblyReference.cache
+C:\Users\caras\desktop\LP1\LP1Semana05\CarStats\obj\Debug\net8.0\CarStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caras\desktop\LP1\LP1Semana05\CarStats\obj\Debug\net8.0\CarStats.AssemblyInfoInputs.cache
+C:\Users\caras\desktop\LP1\LP1Semana05\CarStats\obj\Debug\net8.0\CarStats.AssemblyInfo.cs
+C:\Users\caras\desktop\LP1\LP1Semana05\CarStats\obj\Debug\net8.0\CarStats.csproj.CoreCompileInputs.cache
