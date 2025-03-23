@@ -8,6 +8,7 @@ namespace LevelOne
         {
             Console.WriteLine("Hello LP1!");
             // I am a C# file. How intriguing!
+            // Really makes you think how awesome that is.
         }
     }
 }
