@@ -15,12 +15,6 @@ namespace DungeonStats
         {
             return attack;
         }
-
-        private static int CriticalHit(int damage)
-        {
-            
-        }
-
         private static void Main(string[] args)
         {
             int damage = Convert.ToInt32(args[0]);
