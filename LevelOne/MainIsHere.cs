@@ -7,7 +7,7 @@ namespace LevelOne
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello LP!");
-            // This is a comment too!
+            // This is a comment too!!
         }
     }
 }
