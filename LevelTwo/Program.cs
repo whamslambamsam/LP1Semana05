@@ -17,7 +17,7 @@ namespace LevelTwo
             if (args[0] == "" | args[1] == "")
             {
                 image = "tux.jpg";
-                Image.MaxWidth(24);
+                image.MaxWidth(24);
             }
             AnsiConsole.Write(image);
         }
