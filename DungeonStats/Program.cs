@@ -8,7 +8,7 @@ namespace DungeonStats
     {
         private static int Damage(int attack, int defense)
         {
-            return new num = attack - defense;
+            return attack - defense;
         }
 
         private static int Damage(int attack)
