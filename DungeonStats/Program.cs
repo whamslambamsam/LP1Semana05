@@ -6,7 +6,22 @@ namespace DungeonStats
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP!");
+            
+        }
+
+        private static int Damage(int attack, int defense)
+        {
+            
+        }
+
+        private static int Damage(int attack)
+        {
+            
+        }
+
+        private static int CriticalHit(int damage)
+        {
+            
         }
     }
 }
